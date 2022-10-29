@@ -1,0 +1,27 @@
+.team-card {
+    width: 49%;
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    border-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 10px;
+    min-width: 160px;
+    border-radius: 10px;
+  }
+  .team-logo {
+    height: 60px;
+    width: 60px;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  .team-name {
+    font-size: 25px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-left: 5px;
+  }
+  

@@ -1,0 +1,32 @@
+/* Write your CSS here */
+
+.latest-match-team-logo {
+    height: 70px;
+    width: auto;
+  }
+  
+  .latest-match-container {
+    background-color: #1e293b;
+    color: #ffffff;
+    width: 95%;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  .latest-match-top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  .sub-heading {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .result-text {
+    font-size: 23px;
+    font-weight: 600;
+  }
+  

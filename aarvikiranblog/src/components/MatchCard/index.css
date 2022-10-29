@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.match-card-container {
+    background-color: #1e293b;
+    width: 43%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    border-radius: 13px;
+    margin-bottom: 50px;
+  }
+  
+  .match-card-team-logo {
+    height: 60px;
+    width: auto;
+  }
+  
+  .match-card-team-name {
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+  }
+  .result {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+  }
+  .match-status {
+    color: #e31a1a;
+    font-size: 19px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
